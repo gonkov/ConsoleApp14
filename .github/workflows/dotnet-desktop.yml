@@ -112,4 +112,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: MSIX Package
-        path: ${{ env.Wap_Project_Directory }}\ConsoleApp14\bin\Release\net6.0
+        path: ${{ env.Wap_Project_Directory }}\ConsoleApp14\ConsoleApp14\bin\Release\net6.0
